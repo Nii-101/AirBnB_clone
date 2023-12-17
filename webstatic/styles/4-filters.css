@@ -20,3 +20,7 @@
     top: 50%;
     transform: translate(-30px, -25px);
 }
+
+button:hover{
+    opacity: 0.9;
+}
